@@ -1,3 +1,5 @@
+![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=betthink&hide=contribs,prs,issues)
+
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/robetson/)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/robetzone/)
 
@@ -16,7 +18,7 @@ Here's a list of my tech stack and skills:
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
-![Laravel](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> )
+
 
 ---
 
