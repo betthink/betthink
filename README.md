@@ -7,8 +7,7 @@ Halo semua! 👋
 Perkenalkan, saya seorang fresh graduate yang sangat antusias dengan software development. Saat ini menjalani kerja freelance sebagai programmer, saya telah mendapatkan pengalaman praktis dalam mengembangkan berbagai proyek. Perjalanan saya dalam dunia pemrograman telah membekali saya dengan keterampilan dalam berbagai teknologi dan alat, yang memungkinkan saya untuk berkontribusi di berbagai pengembangan perangkat lunak (website | aplikasi android).
 
 Tujuan:
-🌱 Saat ini saya sedang belajar ![ReactJS](https://img.shields.io/badge/-Next_JS-blue?style=for-the-badge) 
-
+🌱 Saat ini saya sedang belajar (https://img.shields.io/badge/Next_JS-0f172a)
 Jangan ragu untuk menjelajahi repositori saya dan berkontribusi jika ada yang menarik minat Anda. Saya selalu terbuka untuk umpan balik dan peluang kolaborasi.
 ---
 
