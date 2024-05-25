@@ -3,13 +3,16 @@
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/robetson/)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/robetzone/)
 
-Hello there 👋,
+Halo semua! 👋
+Perkenalkan, saya seorang fresh graduate yang sangat antusias dengan software development. Saat ini menjalani kerja freelance sebagai programmer, saya telah mendapatkan pengalaman praktis dalam mengembangkan berbagai proyek. Perjalanan saya dalam dunia pemrograman telah membekali saya dengan keterampilan dalam berbagai teknologi dan alat, yang memungkinkan saya untuk berkontribusi di berbagai pengembangan perangkat lunak (website | aplikasi android).
 
-I am a recent graduate driven to excel as a software developer, committed to contributing value to the industry.  Explore my projects below, and if you find any of my creations helpful, please consider leaving a star (or 'like'). Don't hesitate to connect with me via the social links provided above. I'm eager to engage with you! ❤️
+Tujuan:
+🌱 Saat ini saya sedang belajar ![ReactJS](https://img.shields.io/badge/-Next_JS-blue?style=for-the-badge) 
 
+Jangan ragu untuk menjelajahi repositori saya dan berkontribusi jika ada yang menarik minat Anda. Saya selalu terbuka untuk umpan balik dan peluang kolaborasi.
 ---
 
-Here's a list of my tech stack and skills:
+Berikut adalah tech stacks yang saya gunakan dalam beberapa projects:
 
 
 ![ReactJS](https://img.shields.io/badge/-React-blue?style=for-the-badge)
@@ -25,5 +28,6 @@ Here's a list of my tech stack and skills:
 Check out some of the things I'm building!
 
 - [Simulasi media payment](https://media-payment-service.vercel.app/)
-- [Management Kelurahan](https://management-administrasi-kelurahan.vercel.app/)
+- [Geographic Information System Akses point UPR](https://simonita.site/)
+- [Management Kelurahan](https://management-administrasi-kelurahan.vercel.app/) ( membutuhkan akses login admin )
 
