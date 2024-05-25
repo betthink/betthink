@@ -12,10 +12,10 @@ I am a recent graduate driven to excel as a software developer, committed to con
 Here's a list of my tech stack and skills:
 
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
-
-![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
+![Node Js](https://img.shields.io/badge/-Node-JS-green?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
 
