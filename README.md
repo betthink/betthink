@@ -7,9 +7,7 @@ Halo semua! 👋
 Perkenalkan, saya seorang fresh graduate yang sangat antusias dengan software development. Saat ini menjalani kerja freelance sebagai programmer, saya telah mendapatkan pengalaman praktis dalam mengembangkan berbagai proyek. Perjalanan saya dalam dunia pemrograman telah membekali saya dengan keterampilan dalam berbagai teknologi dan alat, yang memungkinkan saya untuk berkontribusi di berbagai pengembangan perangkat lunak (website | aplikasi android).
 
 Current:
-Saat ini saya sedang mendalami ![Next JS](https://img.shields.io/badge/Next_JS-0f172a)
-
-Sihlakan Explore repositori saya!
+Saat ini saya sedang mendalami ![Next JS](https://img.shields.io/badge/Next_JS-0f172a).
 
 Berikut adalah tech stacks yang saya gunakan dalam beberapa projects:
 
